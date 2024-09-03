@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siourbalo.github.io/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/app/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/assets/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/css/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/includes/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/item/sitemap.html.gz
+Sitemap: https://siourbalo.github.io/src/sitemap.html.gz
